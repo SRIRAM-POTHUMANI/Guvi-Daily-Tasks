@@ -5,12 +5,12 @@ Difference between Browser JS(console) v Nodejs
 
 Execute the below code and write your description in txt file
 
-typeof(1)
-typeof(1.1)
-typeof('1.1')
-typeof(true)
-typeof(null)
-typeof(undefined)
-typeof([])
-typeof({})
-typeof(NaN)
+typeof(1)          - number
+typeof(1.1)        - number
+typeof('1.1')      - string
+typeof(true)       - boolean
+typeof(null)       - object
+typeof(undefined)  - undefined
+typeof([])         - object
+typeof({})         - object
+typeof(NaN)        - number
